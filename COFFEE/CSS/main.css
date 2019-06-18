@@ -15,7 +15,8 @@ body {
   }
 
 .btn-outline-warning {
-  font-family: Montserrat-LightItalic;
+  font-family: 'Slabo 27px', serif;
+  font-style: italic;
 }
   .container {
       display: grid;
