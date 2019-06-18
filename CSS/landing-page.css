@@ -1,3 +1,7 @@
+background{
+  color:orange;
+}
+
 .description{
   color: green;
 }
@@ -21,8 +25,11 @@ h1 {
 
 .navbar-brand {
 font-family: 'Slabo 27px', serif;
-font-size: 100px;
-color: brown;
+font-size: 72px;
+}
+
+#coffee-works {
+  color: brown;
 }
 
 .coffeeheader {
@@ -87,3 +94,27 @@ color: brown;
     background-size: cover;
     background-position: center;
 }
+
+h3 {
+  text-align: center;
+}
+
+.btn-Submit {
+  background: orange;
+  border-color: brown;
+}
+
+#social-buttons button {
+    color: white
+}
+.btn-twitter {
+    background: #00acee;
+    border-color: #009ad5;
+}
+.btn-facebook {
+    background: #4868ac;
+    border-color: #314776;
+}
+.btn-pinterest {
+    background: #b62f26;
+    border-color: #b62f26;
