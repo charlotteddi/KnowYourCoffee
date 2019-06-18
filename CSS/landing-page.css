@@ -1,0 +1,89 @@
+.description{
+  color: green;
+}
+
+.author-link {
+    font-family: 'Slabo 27px', serif;
+}
+a {
+    color: Orange;
+    font-weight: bold;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.navbar-brand {
+font-family: 'Slabo 27px', serif;
+font-size: 100px;
+color: brown;
+}
+
+.coffeeheader {
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
+}
+
+.fullpage {
+    background-color: blue;
+    height: 86vh;
+    width: 100vw;
+  }
+
+.halfheight{
+    height: 50%;
+  }
+
+  .mobileheight {
+    position: relative;
+  }
+
+  .coffeeheader {
+      position: absolute;
+      text-align: center;
+      top: 90%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+.img1{
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cappuccino.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+.img2{
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Americano.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+.img3{
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+.img4{
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Macchiato.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+.img5{
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Mocha.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+.img6{
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Latte.jpg);
+    background-size: cover;
+    background-position: center;
+}
