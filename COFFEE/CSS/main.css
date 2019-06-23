@@ -22,11 +22,11 @@ body {
 
 section {
   width: 90%;
-  padding: 50px;
   margin: 1em auto;
     background-color: #ffbfcb;
-    color:white;
-    padding: 30px;
+    color: white;
+    padding: 50px;
+    border-radius: 30px;
 }
 
   h1 {
@@ -40,10 +40,12 @@ section {
     text-align: center;
     font-weight: bold;
     font-size: 40px;
+    color: brown;
   }
 
   h3 {
     font-size: 20px;
+    font-weight: bold;
     color: brown;
   }
 
@@ -55,8 +57,14 @@ p{
   font-size: 20px;
 }
 
-#ingredients{
-  background: orange;
+ol {
+  font-size: 20px;
+}
+
+.jumbotron {
+  color: black;
+  padding: 20px;
+  background: #D6EAC2;
   border-radius: 30px;
 }
 
@@ -64,10 +72,10 @@ p{
   margin: 25px;
 }
 
-hr {
+.divider {
   border-color: grey;
 border-style: solid none;
-border-width: 7px 0;
+border-width: 4px 0;
 margin: 60px 30px;
 }
 
@@ -76,6 +84,7 @@ margin: 60px 30px;
   border-color: grey;
   color: white;
   font-family: 'Slabo 27px', serif;
+  font-size: 20px;
   font-style: italic;
   border-radius: 20px;
 }
