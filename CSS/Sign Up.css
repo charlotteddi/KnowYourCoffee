@@ -1,9 +1,37 @@
+body{
+  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/coffeepic.jpg);
+  background-size: contain;
+  font-family: 'Slabo 27px', serif;
+}
+
+img {
+    width: 900px;
+    height: 600%;
+}
+
 .jumbotron{
-    background-color:#2E2D88;
+    background-color: pink;
     color:white;
+    border-radius: 20px;
+
 }
 .container {
     padding: 100px;
+}
+
+.navbar-brand {
+  font-family: 'Slabo 27px', serif;
+  color: brown;
+}
+
+.nav-link {
+  color: brown;
+}
+
+
+h1 {
+  color: white;
+  font-size: 60px;
 }
 
 #social-buttons button {

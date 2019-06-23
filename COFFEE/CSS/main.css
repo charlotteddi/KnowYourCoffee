@@ -2,26 +2,70 @@
   font-family: 'Slabo 27px', serif;
 }
 
+.navbar-brand {
+  color: brown;
+}
+
+.nav-link {
+  color: brown;
+}
+
+#coffee-works {
+  color: brown;
+}
 
 body {
-      width: 90%;
-      max-width: 900px;
-      margin: 2em auto;
       font-family: 'Slabo 27px', serif;
+      background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/coffeepic.jpg);
+      background-size: contain;
   }
 
+section {
+  width: 90%;
+  padding: 50px;
+  margin: 1em auto;
+}
+
+.jumbotron {
+    background-color: #ffbfcb;
+    color:white;
+    padding: 10px;
+}
+
   h1 {
+    text-align: center;
     font-weight: bold;
+    font-size: 60px;
+    color: brown;
+  }
+
+  h2 {
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  img {
+    width: 100%;
+    height: 55%;
   }
 
 .btn-outline-warning {
+  background-color: #ffbfcb;
+  border-color: grey;
+  color: white;
   font-family: 'Slabo 27px', serif;
   font-style: italic;
+  border-radius: 20px;
+}
+.btn-outline-warning:hover{
+  background-color: white;
+  color: #ffbfcb;
+  border-color: grey;
 }
   .container {
       display: grid;
       grid-template-columns: 4fr 6fr;
-      grid-gap: 50px;
+      grid-gap: 10px;
   }
 
   article {
@@ -39,17 +83,21 @@ body {
     grid-row: 3;
   }
 
-header,
-footer {
-border-radius: 10px;
-padding: 10px;
-background-color: rgb(207,232,220);
-border: 2px solid rgb(79,185,227);
+aside {
+padding: 5px
 }
 
-aside {
-border-right: 3px solid blue;
-padding: 5px
+.btn-twitter {
+    background: #00acee;
+    border-color: #009ad5;
+}
+.btn-facebook {
+    background: #4868ac;
+    border-color: #314776;
+}
+.btn-pinterest {
+    background: #b62f26;
+    border-color: #b62f26;
 }
 
 .btn-default {

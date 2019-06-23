@@ -1,9 +1,12 @@
-.jumbotron{
-  color:orange;
+  body {
+  background-color:pink;
+  background-size: contain;
+
 }
 
 .description{
   color: green;
+  margin: 0%;
 }
 
 .author-link {
@@ -37,10 +40,13 @@ font-size: 72px;
   font-size: 30px;
 }
 
+.container {
+width: 100%;
+}
+
 .fullpage {
-    background-color: blue;
-    height: 86vh;
-    width: 100vw;
+    height: 100vh;
+    width: 100%;
   }
 
 .halfheight{
@@ -72,7 +78,7 @@ font-size: 72px;
   }
 
 .img3{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso.jpg);
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso%20lp.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -113,3 +119,32 @@ h3 {
 .btn-pinterest {
     background: #b62f26;
     border-color: #b62f26;
+}
+
+@media only screen and (max-width: 768px) {
+
+  .mobileheight {
+        height: 100vh;
+    }
+
+    .halfheight {
+        height: auto;
+    }
+    .buttons-center {
+        margin-bottom: 20px;
+        transform: translate(18%, 20%);
+    }
+    .desktop-buttons {
+        visibility: hidden;
+    }
+    .mobile-buttons{
+        visibility: visible;
+    }
+
+    h1 {
+        font-size: 36px;
+    }
+
+    .descrip{
+        margin-top: 0%
+    }
