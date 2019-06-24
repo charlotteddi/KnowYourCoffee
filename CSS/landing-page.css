@@ -12,12 +12,12 @@ body{
     font-family: 'Slabo 27px', serif;
 }
 a {
-    color: Orange;
+    color: brown;
     font-weight: bold;
 }
 
 a:hover {
-    color: blue;
+    color: white;
     text-decoration: none;
 }
 
@@ -28,6 +28,7 @@ h1 {
 .navbar-brand {
 font-family: 'Slabo 27px', serif;
 font-size: 50px;
+font-weight: normal;
 margin:0px;
 }
 
@@ -40,12 +41,11 @@ margin:0px;
   font-size: 30px;
 }
 
-.jumbotron {
+.container {
   background-color: pink;
   border-radius: 30px;
-  margin-left: 20px;
-  margin-right: 20px;
-  padding: 5px;
+  padding: 30px;
+  margin-top: 30px;
 }
 
 .fullpage {
@@ -73,52 +73,75 @@ margin:0px;
     background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cappuccino.jpg);
     background-size: cover;
     background-position: center;
+    border-radius:30px;
   }
 
 .img2{
     background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Americano.jpg);
     background-size: cover;
     background-position: center;
+    border-radius:30px;
   }
 
 .img3{
     background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso%20lp.jpg);
     background-size: cover;
     background-position: center;
+    border-radius:30px;
   }
 
 .img4{
     background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Mocha%20main.jpg.jpg);
     background-size: cover;
     background-position: center;
+    border-radius:30px;
   }
 
 .img5{
     background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Mocha%20main.jpg);
     background-size: cover;
     background-position: center;
+    border-radius:30px;
   }
 
 .img6{
     background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Latte.jpg);
     background-size: cover;
     background-position: center;
+    border-radius:30px;
 }
 
 .img7{
     background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Caffe%20Latte%20LP.jpg);
     background-size: cover;
     background-position: center;
+    border-radius:30px;
 }
 .img8{
     background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Latte.jpg);
     background-size: cover;
     background-position: center;
+    border-radius:30px;
 }
 
 h3 {
   text-align: center;
+  color: brown;
+  font-family: 'Slabo 27px', serif;
+
 }
+ form {
+   position: absolute;
+   text-align: center;
+   left: 50%;
+   transform: translate(-50%, -50%);
+ }
+
+ .jumbotron {
+   background: #D6EAC2;
+   padding: 40px;
+   border-radius: 30px;
+ }
 
 #social-buttons button {
     color: white
@@ -136,7 +159,7 @@ h3 {
     border-color: #b62f26;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 750px){
 
   .mobileheight {
         height: 100vh;
@@ -156,10 +179,20 @@ h3 {
         visibility: visible;
     }
 
+.container {
+  height: auto;
+}
     h1 {
         font-size: 36px;
     }
 
+    form {
+      position: relative;
+    }
+
+body {
+  background-size: contain;
+}
     .descrip{
         margin-top: 0%
     }
