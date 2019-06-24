@@ -1,5 +1,5 @@
 body{
-  background-image: url(f'../IMAGES/coffeepic.jpg');
+  background-image: url('../IMAGES/coffeepic.jpg');
   background-size: cover;
   font-family: 'Slabo 27px', serif;
   margin: 0px;
