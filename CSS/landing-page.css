@@ -13,27 +13,27 @@ body{
 }
 
 .author-link {
-    font-family: 'Slabo 27px', serif;
+  font-family: 'Slabo 27px', serif;
 }
 a {
-    color: #6F411C;;
-    font-weight: bold;
+  color: #6F411C;;
+  font-weight: bold;
 }
 
 a:hover {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 h1 {
-    font-size: 27px;
+  font-size: 27px;
 }
 
 .navbar-brand {
-font-family: 'Slabo 27px', serif;
-font-size: 50px;
-font-weight: normal;
-margin:0px;
+  font-family: 'Slabo 27px', serif;
+  font-size: 50px;
+  font-weight: normal;
+  margin:0px;
 }
 
 #coffee-works {
@@ -55,77 +55,77 @@ margin:0px;
 .fullpage {
   height: 90vh;
   width: 90vw;
-  }
+}
 
 .halfheight{
-    height: 50%;
-  }
+  height: 50%;
+}
 
-  .mobileheight {
-    position: relative;
-  }
+.mobileheight {
+  position: relative;
+}
 
-  .coffeeheader {
-      position: absolute;
-      text-align: center;
-      top: 90%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-    }
+.coffeeheader {
+  position: absolute;
+  text-align: center;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 .img1{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cappuccino%20LP.jpg);
-    background-size: cover;
-    background-position: center;
-    border-radius:30px;
-  }
+  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cappuccino%20LP.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius:30px;
+}
 
 .img2{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Americano%20LP%20brown.jpg);
-    background-size: cover;
-    background-position: center;
-    border-radius:30px;
-  }
+  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Americano%20LP%20brown.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius:30px;
+}
 
 .img3{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso%20LP%20brown.jpg);
-    background-size: cover;
-    background-position: center;
-    border-radius:30px;
-  }
+  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso%20LP%20brown.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius:30px;
+}
 
 .img4{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Flat%20white%20LP%20brown.jpg);
-    background-size: cover;
-    background-position: center;
-    border-radius:30px;
-  }
+  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Flat%20white%20LP%20brown.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius:30px;
+}
 
 .img5{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso%20Macchiato%20LP%20brown.jpg);
-    background-size: cover;
-    background-position: center;
-    border-radius:30px;
-  }
+  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso%20Macchiato%20LP%20brown.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius:30px;
+}
 
 .img6{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Mocha%20LP%20brown.jpg);
-    background-size: cover;
-    background-position: center;
-    border-radius:30px;
+  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Mocha%20LP%20brown.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius:30px;
 }
 
 .img7{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Caffe%20Latte%20LP%20brown.jpg);
-    background-size: cover;
-    background-position: center;
-    border-radius:30px;
+  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Caffe%20Latte%20LP%20brown.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius:30px;
 }
 .img8{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cafe%20au%20Lait%20LP.jpg);
-    background-size: cover;
-    background-position: center;
-    border-radius:30px;
+  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cafe%20au%20Lait%20LP.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius:30px;
 }
 
 h3 {
@@ -134,69 +134,69 @@ h3 {
   font-family: 'Slabo 27px', serif;
 
 }
- form {
-   position: absolute;
-   text-align: center;
-   left: 50%;
-   transform: translate(-50%, -50%);
- }
+form {
+  position: absolute;
+  text-align: center;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
- .jumbotron {
-   background-color: rgba(255, 255, 255, 0.6);
-   padding: 40px;
-   border-radius: 30px;
- }
+.jumbotron {
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 40px;
+  border-radius: 30px;
+}
 
 #social-buttons button {
-    color: white
+  color: white
 }
 .btn-twitter {
-    background: #00acee;
-    border-color: #009ad5;
+  background: #00acee;
+  border-color: #009ad5;
 }
 .btn-facebook {
-    background: #4868ac;
-    border-color: #314776;
+  background: #4868ac;
+  border-color: #314776;
 }
 .btn-pinterest {
-    background: #b62f26;
-    border-color: #b62f26;
+  background: #b62f26;
+  border-color: #b62f26;
 }
 
 @media only screen and (max-width: 750px){
 
   .mobileheight {
-        height: 100vh;
-    }
+    height: 100vh;
+  }
 
-    .halfheight {
-        height: auto;
-    }
-    .buttons-center {
-        margin-bottom: 20px;
-        transform: translate(18%, 20%);
-    }
-    .desktop-buttons {
-        visibility: hidden;
-    }
-    .mobile-buttons{
-        visibility: visible;
-    }
+  .halfheight {
+    height: auto;
+  }
+  .buttons-center {
+    margin-bottom: 20px;
+    transform: translate(18%, 20%);
+  }
+  .desktop-buttons {
+    visibility: hidden;
+  }
+  .mobile-buttons{
+    visibility: visible;
+  }
 
-.container {
-  height: auto;
-}
-    h1 {
-        font-size: 36px;
-    }
+  .container {
+    height: auto;
+  }
+  h1 {
+    font-size: 36px;
+  }
 
-    form {
-      position: relative;
-    }
+  form {
+    position: relative;
+  }
 
-body {
-  background-size: contain;
-}
-    .descrip{
-        margin-top: 0%
-    }
+  body {
+    background-size: contain;
+  }
+  .descrip{
+    margin-top: 0%
+  }

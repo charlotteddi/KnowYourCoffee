@@ -5,18 +5,18 @@ body{
 }
 
 img {
-    width: 900px;
-    height: 600%;
+  width: 900px;
+  height: 600%;
 }
 
 .jumbotron{
-    background-color: pink;
-    color:white;
-    border-radius: 20px;
+  background-color: pink;
+  color:white;
+  border-radius: 20px;
 
 }
 .container {
-    padding: 100px;
+  padding: 100px;
 }
 
 .navbar-brand {
@@ -36,16 +36,16 @@ h1 {
 }
 
 #social-buttons button {
-    color: white
+  color: white
 }
 .btn-twitter {
-    background: #00acee;
-    border-color: #009ad5;
+  background: #00acee;
+  border-color: #009ad5;
 }
 .btn-facebook {
-    background: #4868ac;
-    border-color: #314776;
+  background: #4868ac;
+  border-color: #314776;
 }
 .btn-pinterest {
-    background: #b62f26;
-    border-color: #b62f26;
+  background: #b62f26;
+  border-color: #b62f26;
