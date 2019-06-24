@@ -1,5 +1,5 @@
 body{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/coffeepic.jpg);
+  background-image: url('../IMAGES/coffeepic.jpg');
   background-size: cover;
   font-family: 'Slabo 27px', serif;
   margin: 0px;
@@ -74,55 +74,55 @@ h1 {
 }
 
 .img1{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cappuccino%20LP.jpg);
+  background-image: url('../IMAGES/Cappuccino%20LP.jpg');
   background-size: cover;
   background-position: center;
   border-radius:30px;
 }
 
 .img2{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Americano%20LP%20brown.jpg);
+  background-image: url('../IMAGES/Americano%20LP%20brown.jpg');
   background-size: cover;
   background-position: center;
   border-radius:30px;
 }
 
 .img3{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso%20LP%20brown.jpg);
+  background-image: url('../IMAGES/Espresso%20LP%20brown.jpg');
   background-size: cover;
   background-position: center;
   border-radius:30px;
 }
 
 .img4{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Flat%20white%20LP%20brown.jpg);
+  background-image: url('../IMAGES/Flat%20white%20LP%20brown.jpg');
   background-size: cover;
   background-position: center;
   border-radius:30px;
 }
 
 .img5{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso%20Macchiato%20LP%20brown.jpg);
+  background-image: url('../IMAGES/Espresso%20Macchiato%20LP%20brown.jpg');
   background-size: cover;
   background-position: center;
   border-radius:30px;
 }
 
 .img6{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Mocha%20LP%20brown.jpg);
+  background-image: url('../IMAGES/Mocha%20LP%20brown.jpg');
   background-size: cover;
   background-position: center;
   border-radius:30px;
 }
 
 .img7{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Caffe%20Latte%20LP%20brown.jpg);
+  background-image: url('../IMAGES/Caffe%20Latte%20LP%20brown.jpg');
   background-size: cover;
   background-position: center;
   border-radius:30px;
 }
 .img8{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cafe%20au%20Lait%20LP.jpg);
+  background-image: url('../IMAGES/Cafe%20au%20Lait%20LP.jpg');
   background-size: cover;
   background-position: center;
   border-radius:30px;

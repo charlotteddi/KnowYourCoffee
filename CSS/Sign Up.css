@@ -1,5 +1,5 @@
 body{
-  background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/coffeepic.jpg);
+  background-image: url("../IMAGES/coffeepic.jpg");
   background-size: contain;
   font-family: 'Slabo 27px', serif;
 }
