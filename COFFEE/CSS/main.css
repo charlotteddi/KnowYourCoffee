@@ -2,12 +2,16 @@
   font-family: 'Slabo 27px', serif;
 }
 
-.navbar-brand {
+.navbar-brand, .nav-link, .dropdown-item {
   color: brown;
 }
 
-.nav-link {
-  color: brown;
+.nav-link:hover {
+  color: black;
+}
+
+.dropdown-item:hover {
+  color: black;
 }
 
 #coffee-works {
@@ -115,10 +119,9 @@ margin: 60px 30px;
     grid-row: 3;
   }
 
-
-section {
-
-}
+  #social-buttons button {
+      color: white
+  }
 
 .btn-twitter {
     background: #00acee;
