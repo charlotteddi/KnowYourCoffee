@@ -22,7 +22,7 @@ a:hover {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 27px;
 }
 
 .navbar-brand {
@@ -70,14 +70,14 @@ margin:0px;
     }
 
 .img1{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cappuccino.jpg);
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cappuccino%20LP.jpg);
     background-size: cover;
     background-position: center;
     border-radius:30px;
   }
 
 .img2{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Americano.jpg);
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Americano%20LP.jpg);
     background-size: cover;
     background-position: center;
     border-radius:30px;
@@ -91,21 +91,21 @@ margin:0px;
   }
 
 .img4{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Mocha%20main.jpg.jpg);
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/flat%20white%20LP.jpg);
     background-size: cover;
     background-position: center;
     border-radius:30px;
   }
 
 .img5{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Mocha%20main.jpg);
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Espresso%20Macchiato%20LP.jpg);
     background-size: cover;
     background-position: center;
     border-radius:30px;
   }
 
 .img6{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Latte.jpg);
+    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Mocha%20LP.jpg);
     background-size: cover;
     background-position: center;
     border-radius:30px;
@@ -118,7 +118,7 @@ margin:0px;
     border-radius:30px;
 }
 .img8{
-    background-image: url(file:///Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Latte.jpg);
+    background-image: url(/Users/annabelbarham/Documents/Coding%20Course/Code-First-Project/IMAGES/Cafe%20au%20Lait%20LP.jpg);
     background-size: cover;
     background-position: center;
     border-radius:30px;
