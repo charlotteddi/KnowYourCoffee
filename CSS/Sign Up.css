@@ -21,17 +21,18 @@ img {
 
 .navbar-brand {
   font-family: 'Slabo 27px', serif;
-  color: brown;
+  color: #6F411C;;
 }
 
 .nav-link {
-  color: brown;
+  color: #6F411C;;
 }
 
 
 h1 {
-  color: white;
+  color: #6F411C;;
   font-size: 60px;
+  text-align: center;
 }
 
 #social-buttons button {

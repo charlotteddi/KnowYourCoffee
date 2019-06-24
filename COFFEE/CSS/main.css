@@ -3,7 +3,7 @@
 }
 
 .navbar-brand, .nav-link, .dropdown-item {
-  color: brown;
+  color: #6F411C;;
 }
 
 .nav-link:hover {
@@ -15,7 +15,7 @@
 }
 
 #coffee-works {
-  color: brown;
+  color: #6F411C;;
 }
 
 body {
@@ -37,20 +37,20 @@ section {
     text-align: center;
     font-weight: bold;
     font-size: 40px;
-    color: brown;
+    color: #6F411C;;
   }
 
   h2 {
     text-align: center;
     font-weight: bold;
     font-size: 40px;
-    color: brown;
+    color: #6F411C;;
   }
 
   h3 {
     font-size: 20px;
     font-weight: bold;
-    color: brown;
+    color: #6F411C;;
   }
 
   img {
@@ -77,9 +77,9 @@ ol {
 }
 
 .divider {
-  border-color: grey;
+border-color: grey;
 border-style: solid none;
-border-width: 4px 0;
+border-width: 1px;
 margin: 60px 30px;
 }
 
