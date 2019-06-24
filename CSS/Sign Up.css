@@ -24,10 +24,17 @@ img {
   color: #6F411C;;
 }
 
-.nav-link {
+.navbar-brand, .nav-link, .dropdown-item {
   color: #6F411C;;
 }
 
+.nav-link:hover {
+  color: black;
+}
+
+.dropdown-item:hover {
+  color: black;
+}
 
 h1 {
   color: #6F411C;;
