@@ -60,7 +60,9 @@ margin:0px;
 .halfheight{
     height: 50%;
   }
-
+.lessheight{
+  height: 25%;
+}
   .mobileheight {
     position: relative;
   }
