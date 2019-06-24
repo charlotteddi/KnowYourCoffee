@@ -6,22 +6,26 @@ body{
 }
 
 .description{
+  position: relative;
   color: green;
   font-family: 'Slabo 27px', serif;
-  font-size: 20px;
-  text-align: right;
+  font-weight: normal;
+  font-size: 25px;
+  text-align: left;
+  margin-top: 3%;
 }
 
 .author-link {
   font-family: 'Slabo 27px', serif;
 }
+
 a {
-  color: #6F411C;;
+  color: #6F411C;
   font-weight: bold;
 }
 
 a:hover {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
@@ -33,7 +37,7 @@ h1 {
   font-family: 'Slabo 27px', serif;
   font-size: 50px;
   font-weight: normal;
-  margin:0px;
+  position: relative;
 }
 
 #coffee-works {
