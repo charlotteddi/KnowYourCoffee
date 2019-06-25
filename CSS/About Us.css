@@ -4,21 +4,6 @@ body{
   font-family: 'Slabo 27px', serif;
 }
 
-img {
-  width: 900px;
-  height: 600%;
-}
-
-.jumbotron{
-  background-color: pink;
-  color:white;
-  border-radius: 20px;
-}
-
-.container {
-  padding: 100px;
-}
-
 .navbar-brand {
   font-family: 'Slabo 27px', serif;
   color: #6F411C;;
@@ -36,10 +21,35 @@ img {
   color: black;
 }
 
+.jumbotron{
+  background-color: pink;
+  color:white;
+  border-radius: 20px;
+}
+
+.container {
+  padding: 100px;
+}
+
 h1 {
   color: #6F411C;;
   font-size: 60px;
   text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 27px;
+}
+
+.girls-link {
+  color: red;
+}
+
+.girls-link:hover {
+  font-style: italic;
+  text-decoration: none;
+  color: red;
 }
 
 #social-buttons button {
