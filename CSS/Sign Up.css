@@ -4,11 +4,6 @@ body{
   font-family: 'Slabo 27px', serif;
 }
 
-img {
-  width: 900px;
-  height: 600%;
-}
-
 .jumbotron{
   background-color: pink;
   color:white;
@@ -21,7 +16,11 @@ img {
 
 .navbar-brand {
   font-family: 'Slabo 27px', serif;
-  color: #6F411C;;
+  color: #6F411C;
+}
+
+.navbar-brand:hover {
+  color: black;
 }
 
 .navbar-brand, .nav-link, .dropdown-item {

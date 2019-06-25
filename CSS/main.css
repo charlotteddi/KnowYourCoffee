@@ -1,5 +1,16 @@
-.navbar {
+body {
+      font-family: 'Slabo 27px', serif;
+      background-image: url('../IMAGES/coffeepic.jpg');
+      background-size: contain;
+  }
+
+  .navbar-brand {
   font-family: 'Slabo 27px', serif;
+  color: #6F411C;
+}
+
+.navbar-brand:hover {
+  color: black;
 }
 
 .navbar-brand, .nav-link, .dropdown-item {
@@ -13,16 +24,6 @@
 .dropdown-item:hover {
   color: black;
 }
-
-#coffee-works {
-  color: #6F411C;;
-}
-
-body {
-      font-family: 'Slabo 27px', serif;
-      background-image: url('../IMAGES/coffeepic.jpg');
-      background-size: contain;
-  }
 
 section {
   width: 90%;

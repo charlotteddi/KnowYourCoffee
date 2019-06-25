@@ -9,6 +9,10 @@ body{
   color: #6F411C;;
 }
 
+.navbar-brand:hover {
+  color: black;
+}
+
 .navbar-brand, .nav-link, .dropdown-item {
   color: #6F411C;;
 }
@@ -51,6 +55,13 @@ p {
   text-decoration: none;
   color: red;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 #social-buttons button {
   color: white
